@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aref milani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aref milani" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/aref milani](https://www.linkedin.com/in/aref-milani-1bbaa595/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aref milani" height="30" width="40" /></a>
 <a href="https://kaggle.com/aref milani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aref milani" height="30" width="40" /></a>
 <a href="https://instagram.com/arefmilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arefmilani" height="30" width="40" /></a>
 <a href="https://medium.com/@arefmilani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arefmilani" height="30" width="40" /></a>
