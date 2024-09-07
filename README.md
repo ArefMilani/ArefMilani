@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arefmilani" alt="arefmilani" /></a> </p>
 
-- 🌱 I’m currently learning **Google Cloud**
+- 🌱 I’m currently learning **Project Management Fundamentals**
 
 - 📫 How to reach me **arefmilani507@gmail.com**
 
